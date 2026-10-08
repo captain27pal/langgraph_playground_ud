@@ -1,4 +1,0 @@
-python-dotenv
-uv
-langchain
-langgraph
